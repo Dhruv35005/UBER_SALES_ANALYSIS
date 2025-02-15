@@ -1,0 +1,501 @@
+Pickup Location,Dropoff Location,Cab Type,Distance (km),Fare (INR),Payment Method,Date,Time
+Whitefield,Marathahalli,UberSUV,17.27,257.24,UPI,2024-07-27,04:47:54
+MG Road,Indiranagar,UberXL,25.95,361.4,Card,2024-01-14,07:23:59
+Koramangala,Jayanagar,UberXL,20.46,295.52,UPI,2024-07-15,05:54:01
+Hebbal,Koramangala,UberGo,44.66,585.92,Wallet,2024-04-14,13:02:49
+Electronic City,Jayanagar,UberBlack,3.1,87.2,Wallet,2024-09-03,17:59:56
+Hebbal,Whitefield,UberXL,47.74,622.88,Wallet,2024-03-08,20:32:42
+Koramangala,Indiranagar,UberXL,32.87,444.44,Card,2024-08-09,16:14:56
+Jayanagar,Marathahalli,UberX,31.38,426.56,Card,2024-12-06,11:46:58
+Indiranagar,Jayanagar,UberXL,3.44,91.28,UPI,2024-08-22,06:37:07
+MG Road,Marathahalli,UberGo,11.72,190.64,Card,2024-12-13,13:26:46
+Jayanagar,Indiranagar,UberX,20.02,290.24,Card,2024-07-05,00:02:31
+Hebbal,Electronic City,UberBlack,24.91,348.92,UPI,2024-09-13,18:55:13
+Electronic City,Koramangala,UberX,20.94,301.28,UPI,2024-08-17,01:50:13
+Electronic City,Marathahalli,UberGo,12.03,194.36,UPI,2024-10-10,13:00:26
+Marathahalli,Jayanagar,UberGo,38.73,514.76,Card,2024-04-16,08:44:15
+Jayanagar,Indiranagar,UberXL,15.1,231.2,Card,2024-01-22,08:40:22
+Jayanagar,Marathahalli,UberSUV,33.64,453.68,Card,2024-12-21,19:32:44
+Indiranagar,Whitefield,UberSUV,15.21,232.52,Card,2024-06-12,12:58:20
+Indiranagar,Marathahalli,UberXL,14.03,218.36,Cash,2024-03-19,14:51:02
+Electronic City,Koramangala,UberX,24.78,347.36,UPI,2024-02-23,19:04:39
+Hebbal,Marathahalli,UberX,41.65,549.8,UPI,2024-03-18,21:23:57
+Electronic City,MG Road,UberBlack,17.92,265.04,UPI,2024-08-18,21:14:24
+Koramangala,Hebbal,UberBlack,22.83,323.96,Wallet,2024-09-07,01:54:10
+Indiranagar,Jayanagar,UberXL,40.55,536.6,Wallet,2024-07-03,00:24:40
+Jayanagar,Koramangala,UberXL,24.94,349.28,Card,2024-09-02,05:29:36
+Koramangala,Jayanagar,UberGo,30.04,410.48,Card,2024-08-24,07:44:31
+Electronic City,Koramangala,UberSUV,31.33,425.96,Wallet,2024-09-07,05:25:55
+Marathahalli,Electronic City,UberBlack,41.31,545.72,Cash,2024-03-10,03:30:36
+Marathahalli,Koramangala,UberX,21.32,305.84,Wallet,2024-01-08,11:49:32
+Whitefield,Indiranagar,UberBlack,16.52,248.24,UPI,2024-12-06,01:10:33
+Whitefield,Indiranagar,UberSUV,12.35,198.2,Wallet,2024-06-12,09:45:00
+Marathahalli,Hebbal,UberBlack,15.38,234.56,Cash,2024-05-22,06:28:31
+Electronic City,Koramangala,UberSUV,40.99,541.88,UPI,2024-12-21,05:30:02
+MG Road,Marathahalli,UberGo,2.44,79.28,Card,2024-10-03,23:45:06
+Electronic City,Marathahalli,UberBlack,36.24,484.88,Wallet,2024-06-26,01:26:00
+Hebbal,Indiranagar,UberX,42.68,562.16,Cash,2024-02-08,04:47:07
+MG Road,Hebbal,UberXL,47.1,615.2,Cash,2024-03-14,10:31:58
+Electronic City,Indiranagar,UberX,10.44,175.28,Card,2024-02-18,00:59:45
+Indiranagar,Electronic City,UberSUV,20.53,296.36,Wallet,2024-07-05,17:47:49
+MG Road,Koramangala,UberBlack,3.04,86.48,Wallet,2024-11-29,01:21:25
+Jayanagar,Hebbal,UberXL,16.55,248.6,Wallet,2024-01-30,00:42:01
+Jayanagar,Marathahalli,UberX,43.45,571.4,Card,2024-01-25,22:53:12
+Indiranagar,Marathahalli,UberBlack,11.54,188.48,Cash,2024-09-22,05:27:25
+Marathahalli,Hebbal,UberBlack,10.25,173,Card,2024-03-14,19:37:21
+Indiranagar,MG Road,UberGo,2.39,78.68,UPI,2024-06-14,23:27:26
+Koramangala,Jayanagar,UberBlack,48.67,634.04,UPI,2024-07-29,14:32:03
+Hebbal,MG Road,UberX,25.97,361.64,Card,2024-03-08,06:23:14
+Koramangala,Jayanagar,UberXL,44.17,580.04,Cash,2024-02-13,08:44:47
+Electronic City,Whitefield,UberBlack,37.4,498.8,Cash,2024-01-23,03:48:03
+Indiranagar,Jayanagar,UberBlack,42.2,556.4,UPI,2024-02-04,11:43:52
+Indiranagar,Electronic City,UberX,25.56,356.72,UPI,2024-07-28,01:45:33
+Indiranagar,Electronic City,UberBlack,25.01,350.12,UPI,2024-03-10,03:58:37
+Indiranagar,Koramangala,UberSUV,4.18,100.16,Card,2024-07-16,13:39:36
+Marathahalli,Electronic City,UberX,4.28,101.36,UPI,2024-06-05,23:57:30
+Whitefield,Hebbal,UberSUV,27.24,376.88,Cash,2024-01-14,14:00:45
+Indiranagar,MG Road,UberSUV,34.68,466.16,Card,2024-10-12,12:11:50
+MG Road,Marathahalli,UberBlack,35.35,474.2,Cash,2024-12-24,03:31:11
+Marathahalli,Whitefield,UberSUV,39.09,519.08,UPI,2024-09-19,15:59:40
+Jayanagar,Koramangala,UberSUV,33.34,450.08,Cash,2024-03-15,16:27:31
+Whitefield,Electronic City,UberXL,3.91,96.92,UPI,2024-10-15,18:34:29
+Marathahalli,Koramangala,UberX,22.25,317,Card,2024-01-05,05:25:54
+Electronic City,Marathahalli,UberGo,16.33,245.96,UPI,2024-02-01,11:35:00
+Marathahalli,Jayanagar,UberXL,46.92,613.04,UPI,2024-12-19,12:40:25
+Indiranagar,Marathahalli,UberGo,27.31,377.72,UPI,2024-09-07,17:28:54
+Electronic City,Indiranagar,UberGo,5.55,116.6,UPI,2024-03-31,20:39:28
+Marathahalli,Whitefield,UberGo,12.77,203.24,UPI,2024-04-12,04:38:48
+Koramangala,Jayanagar,UberBlack,21.54,308.48,Wallet,2024-10-10,12:29:46
+Hebbal,Koramangala,UberXL,28.25,389,Card,2024-04-09,12:33:08
+Jayanagar,Electronic City,UberSUV,41.65,549.8,Card,2024-01-12,11:27:17
+Jayanagar,Electronic City,UberXL,34.65,465.8,Wallet,2024-06-07,07:52:36
+Marathahalli,Koramangala,UberXL,24.24,340.88,Card,2024-01-05,19:32:02
+Jayanagar,Indiranagar,UberGo,19.79,287.48,Card,2024-10-05,22:06:13
+Whitefield,Marathahalli,UberXL,15.47,235.64,Wallet,2024-10-11,21:18:51
+MG Road,Electronic City,UberX,32.64,441.68,Cash,2024-03-31,10:52:44
+MG Road,Jayanagar,UberX,47.9,624.8,Card,2024-12-06,07:41:00
+Hebbal,Jayanagar,UberXL,37.92,505.04,UPI,2024-06-15,01:51:25
+MG Road,Indiranagar,UberGo,18.72,274.64,UPI,2024-03-29,12:30:11
+MG Road,Hebbal,UberXL,28.05,386.6,Card,2024-05-20,22:14:45
+Whitefield,Indiranagar,UberSUV,9.79,167.48,Card,2024-04-02,18:36:48
+Jayanagar,Whitefield,UberX,44.24,580.88,Wallet,2024-06-07,05:43:32
+Hebbal,Whitefield,UberBlack,38.02,506.24,Wallet,2024-04-02,22:16:44
+Marathahalli,Electronic City,UberX,36.17,484.04,UPI,2024-10-30,01:26:14
+Whitefield,Jayanagar,UberXL,49.51,644.12,Wallet,2024-10-24,21:29:37
+Whitefield,Jayanagar,UberBlack,44.71,586.52,Wallet,2024-03-12,16:00:10
+Whitefield,Indiranagar,UberGo,2.87,84.44,Card,2024-05-05,19:49:37
+MG Road,Jayanagar,UberBlack,41.72,550.64,Cash,2024-01-30,01:22:24
+Indiranagar,Electronic City,UberGo,40.35,534.2,UPI,2024-04-15,01:24:40
+Electronic City,Hebbal,UberGo,24.49,343.88,Wallet,2024-11-26,01:29:06
+Whitefield,Indiranagar,UberXL,8.45,151.4,Card,2024-11-05,21:58:21
+MG Road,Hebbal,UberX,34.18,460.16,Card,2024-08-17,23:33:53
+MG Road,Koramangala,UberBlack,23.59,333.08,Wallet,2024-05-27,23:50:11
+Whitefield,Koramangala,UberGo,35.64,477.68,Wallet,2024-10-01,22:04:51
+Whitefield,Marathahalli,UberXL,37.01,494.12,Wallet,2024-03-12,21:48:23
+MG Road,Koramangala,UberXL,25.29,353.48,Cash,2024-10-17,07:32:40
+Whitefield,Koramangala,UberSUV,36.33,485.96,Wallet,2024-10-27,20:49:24
+Indiranagar,MG Road,UberSUV,28.67,394.04,Wallet,2024-04-01,21:44:20
+MG Road,Electronic City,UberSUV,17.38,258.56,Wallet,2024-10-23,23:34:51
+Hebbal,MG Road,UberGo,22.71,322.52,Wallet,2024-05-05,12:36:17
+MG Road,Whitefield,UberSUV,35.94,481.28,Wallet,2024-08-27,20:00:03
+MG Road,Jayanagar,UberSUV,5.03,110.36,Card,2024-11-07,05:48:14
+Koramangala,Jayanagar,UberX,27.44,379.28,Wallet,2024-11-10,18:25:41
+MG Road,Hebbal,UberXL,44.91,588.92,Wallet,2024-09-25,04:56:46
+Marathahalli,Jayanagar,UberGo,5.66,117.92,UPI,2024-08-12,22:08:03
+Marathahalli,Whitefield,UberX,47.78,623.36,Cash,2024-11-30,21:55:38
+MG Road,Koramangala,UberSUV,10.64,177.68,Wallet,2024-10-26,00:28:21
+Marathahalli,Indiranagar,UberGo,25.09,351.08,Card,2024-04-19,13:33:05
+Indiranagar,Jayanagar,UberSUV,18.61,273.32,UPI,2024-12-05,09:59:00
+Koramangala,Whitefield,UberGo,33.57,452.84,Wallet,2024-01-24,10:52:36
+Whitefield,Koramangala,UberBlack,14.99,229.88,UPI,2024-06-30,13:51:55
+MG Road,Marathahalli,UberGo,25.03,350.36,Wallet,2024-10-27,19:51:10
+Indiranagar,Electronic City,UberBlack,39.16,519.92,Card,2024-06-17,21:23:24
+Jayanagar,Indiranagar,UberBlack,32.32,437.84,Cash,2024-10-17,05:31:45
+Koramangala,Whitefield,UberX,44.42,583.04,Card,2024-08-01,16:30:51
+Jayanagar,Electronic City,UberXL,44.96,589.52,Card,2024-01-25,01:03:43
+Hebbal,Jayanagar,UberSUV,46.03,602.36,Card,2024-08-13,00:54:40
+Whitefield,Electronic City,UberGo,13.55,212.6,Wallet,2024-11-29,17:02:16
+Electronic City,Whitefield,UberBlack,9.27,161.24,UPI,2024-10-21,07:25:11
+Hebbal,Whitefield,UberX,38.18,508.16,Cash,2024-10-24,02:18:35
+Whitefield,Marathahalli,UberSUV,33.54,452.48,Card,2024-09-30,07:12:31
+Whitefield,Electronic City,UberXL,34.42,463.04,Card,2024-10-22,22:22:01
+Koramangala,Marathahalli,UberX,30.36,414.32,Cash,2024-02-09,15:26:10
+Whitefield,Indiranagar,UberSUV,24.12,339.44,Cash,2024-10-07,08:29:57
+MG Road,Koramangala,UberBlack,36.44,487.28,Cash,2024-03-30,09:51:17
+Koramangala,Jayanagar,UberX,40.06,530.72,UPI,2024-10-19,18:01:53
+Electronic City,Marathahalli,UberX,42.26,557.12,Card,2024-09-23,22:08:15
+Whitefield,Jayanagar,UberSUV,36.52,488.24,Cash,2024-01-10,23:47:35
+Electronic City,Koramangala,UberXL,30.03,410.36,Cash,2024-01-13,19:22:12
+Marathahalli,Electronic City,UberXL,14.25,221,Wallet,2024-11-07,22:27:11
+Jayanagar,MG Road,UberX,34.76,467.12,Card,2024-02-21,06:02:35
+Whitefield,Hebbal,UberGo,19.74,286.88,Wallet,2024-12-17,21:51:42
+Indiranagar,Hebbal,UberBlack,39.16,519.92,UPI,2024-08-20,16:52:57
+Electronic City,MG Road,UberX,29.43,403.16,UPI,2024-02-15,08:55:03
+Marathahalli,Jayanagar,UberBlack,26.83,371.96,Cash,2024-05-31,12:20:43
+Indiranagar,Koramangala,UberSUV,25.06,350.72,Card,2024-11-05,13:37:03
+MG Road,Jayanagar,UberX,31.99,433.88,Cash,2024-12-14,23:55:11
+Hebbal,Marathahalli,UberX,42.61,561.32,Card,2024-12-08,22:26:48
+Indiranagar,Koramangala,UberX,33.85,456.2,UPI,2024-05-08,10:10:30
+MG Road,Indiranagar,UberGo,18.28,269.36,Wallet,2024-05-27,13:50:37
+Indiranagar,MG Road,UberGo,43.59,573.08,Card,2024-05-02,11:47:24
+Hebbal,Electronic City,UberGo,21.36,306.32,Wallet,2024-12-16,07:41:37
+MG Road,Koramangala,UberBlack,42.3,557.6,Wallet,2024-07-04,12:13:27
+Marathahalli,Hebbal,UberXL,32.29,437.48,Wallet,2024-12-01,04:03:55
+Electronic City,Jayanagar,UberXL,10.84,180.08,Wallet,2024-07-16,09:34:41
+Jayanagar,Marathahalli,UberSUV,5.37,114.44,Card,2024-02-09,12:24:29
+Koramangala,Whitefield,UberBlack,14.93,229.16,Card,2024-05-28,04:22:25
+Electronic City,MG Road,UberBlack,49.56,644.72,Card,2024-03-13,03:12:50
+Electronic City,Whitefield,UberX,29.1,399.2,Wallet,2024-11-07,03:57:44
+Koramangala,Jayanagar,UberX,19.86,288.32,Cash,2024-08-21,03:24:32
+MG Road,Indiranagar,UberGo,36.4,486.8,Wallet,2024-09-14,11:01:58
+MG Road,Indiranagar,UberX,4.53,104.36,Wallet,2024-11-26,21:20:54
+MG Road,Koramangala,UberX,37.08,494.96,UPI,2024-05-04,01:36:47
+Jayanagar,Indiranagar,UberSUV,35.87,480.44,Wallet,2024-02-04,20:43:44
+MG Road,Marathahalli,UberGo,28.49,391.88,UPI,2024-06-17,01:03:13
+MG Road,Jayanagar,UberXL,3.72,94.64,Cash,2024-09-16,15:07:56
+Indiranagar,MG Road,UberGo,45.91,600.92,Card,2024-03-09,23:15:03
+Electronic City,Koramangala,UberBlack,43.25,569,UPI,2024-08-03,03:54:50
+Electronic City,Marathahalli,UberX,7.25,137,Cash,2024-07-07,10:34:16
+Jayanagar,Marathahalli,UberGo,33.77,455.24,Card,2024-09-17,11:37:00
+Hebbal,Marathahalli,UberX,48.12,627.44,Cash,2024-02-18,02:15:57
+Jayanagar,Indiranagar,UberXL,30.75,419,UPI,2024-02-06,20:08:40
+Whitefield,Marathahalli,UberX,20.66,297.92,UPI,2024-04-06,19:33:48
+MG Road,Indiranagar,UberBlack,45.59,597.08,Cash,2024-01-10,10:09:56
+Hebbal,Electronic City,UberXL,43.06,566.72,Card,2024-04-18,22:31:06
+Marathahalli,Indiranagar,UberSUV,29.88,408.56,Wallet,2024-03-21,03:23:04
+Indiranagar,Whitefield,UberXL,6.17,124.04,Card,2024-10-03,09:13:51
+Marathahalli,Hebbal,UberGo,22.86,324.32,UPI,2024-02-04,03:51:39
+MG Road,Whitefield,UberX,32.03,434.36,UPI,2024-07-07,07:32:21
+MG Road,Indiranagar,UberBlack,49.95,649.4,Wallet,2024-09-16,11:56:59
+MG Road,Koramangala,UberXL,11.44,187.28,Wallet,2024-08-29,12:17:19
+Marathahalli,Indiranagar,UberSUV,49.26,641.12,UPI,2024-10-23,01:08:03
+Electronic City,Hebbal,UberBlack,49.49,643.88,Wallet,2024-01-25,10:01:07
+Whitefield,Koramangala,UberX,4.98,109.76,Card,2024-04-26,11:38:41
+Indiranagar,Whitefield,UberX,47.92,625.04,Wallet,2024-06-20,03:44:51
+Hebbal,Electronic City,UberBlack,25.97,361.64,Wallet,2024-03-17,21:24:27
+Indiranagar,Electronic City,UberBlack,49.69,646.28,Wallet,2024-09-06,16:10:25
+Whitefield,Jayanagar,UberBlack,32.14,435.68,Wallet,2024-03-20,16:00:12
+Electronic City,Hebbal,UberGo,36.77,491.24,Card,2024-07-14,16:11:33
+Hebbal,Indiranagar,UberGo,28.23,388.76,UPI,2024-05-06,04:28:49
+Indiranagar,Electronic City,UberXL,30.39,414.68,Cash,2024-10-19,02:55:21
+Marathahalli,Hebbal,UberSUV,33.36,450.32,Card,2024-04-10,20:08:19
+Electronic City,Whitefield,UberBlack,26.05,362.6,Wallet,2024-12-21,15:58:02
+Jayanagar,Hebbal,UberBlack,4.24,100.88,Wallet,2024-10-19,18:13:51
+Hebbal,Marathahalli,UberX,27.09,375.08,Card,2024-04-03,23:50:46
+Marathahalli,Hebbal,UberXL,32.86,444.32,Cash,2024-04-02,03:21:56
+Koramangala,Whitefield,UberX,9.84,168.08,Card,2024-02-18,12:40:27
+Marathahalli,Koramangala,UberX,42.33,557.96,UPI,2024-02-02,05:39:23
+MG Road,Hebbal,UberSUV,5.64,117.68,Wallet,2024-08-13,07:39:08
+Electronic City,Hebbal,UberXL,12.51,200.12,UPI,2024-03-20,18:33:39
+MG Road,Koramangala,UberX,16.9,252.8,Wallet,2024-12-05,12:14:15
+Whitefield,Electronic City,UberBlack,47.69,622.28,Cash,2024-09-24,15:46:41
+Whitefield,Koramangala,UberGo,16.1,243.2,Wallet,2024-10-14,23:53:50
+Indiranagar,Marathahalli,UberSUV,15.71,238.52,Card,2024-10-16,16:50:45
+Electronic City,Jayanagar,UberGo,28.3,389.6,Wallet,2024-12-13,04:46:48
+Jayanagar,Marathahalli,UberBlack,39.05,518.6,Wallet,2024-12-19,17:37:29
+Electronic City,Marathahalli,UberXL,47.64,621.68,Cash,2024-10-14,22:43:59
+Koramangala,Jayanagar,UberX,14.61,225.32,Wallet,2024-11-08,16:46:14
+Whitefield,MG Road,UberBlack,33,446,UPI,2024-06-25,20:08:09
+Electronic City,MG Road,UberBlack,26.03,362.36,Card,2024-06-13,21:49:26
+Whitefield,Jayanagar,UberX,43.58,572.96,Wallet,2024-03-06,17:14:54
+Marathahalli,Whitefield,UberXL,13.22,208.64,Wallet,2024-04-19,03:53:30
+Hebbal,Indiranagar,UberX,25.82,359.84,Card,2024-10-17,20:10:43
+Marathahalli,Koramangala,UberXL,17.26,257.12,Wallet,2024-03-29,15:15:52
+Indiranagar,Koramangala,UberGo,31.87,432.44,Wallet,2024-12-22,19:43:11
+Koramangala,Marathahalli,UberBlack,18.28,269.36,Cash,2024-02-13,16:42:24
+Koramangala,Whitefield,UberX,29.38,402.56,UPI,2024-03-12,15:47:23
+Hebbal,Koramangala,UberX,42.62,561.44,Wallet,2024-07-20,10:32:02
+Electronic City,Marathahalli,UberSUV,39.63,525.56,Cash,2024-09-20,08:31:45
+Indiranagar,Koramangala,UberXL,14.49,223.88,Card,2024-03-17,05:50:08
+Jayanagar,Electronic City,UberGo,26.88,372.56,Wallet,2024-09-14,17:09:34
+Hebbal,Jayanagar,UberGo,35.03,470.36,Cash,2024-10-26,09:21:31
+Indiranagar,MG Road,UberGo,33.41,450.92,UPI,2024-12-19,11:42:33
+Marathahalli,MG Road,UberXL,26.44,367.28,Cash,2024-10-05,18:50:27
+Indiranagar,Koramangala,UberXL,6.91,132.92,UPI,2024-06-27,01:14:21
+Whitefield,Marathahalli,UberBlack,30.81,419.72,UPI,2024-02-03,16:44:58
+Jayanagar,Hebbal,UberSUV,43.76,575.12,Cash,2024-02-21,20:49:47
+Marathahalli,Electronic City,UberXL,7.3,137.6,Wallet,2024-11-25,09:46:04
+Electronic City,Marathahalli,UberBlack,48.75,635,Cash,2024-10-31,20:38:47
+Hebbal,Marathahalli,UberX,24.1,339.2,UPI,2024-02-02,13:10:09
+Marathahalli,MG Road,UberGo,48.86,636.32,Card,2024-12-06,11:33:57
+Whitefield,Hebbal,UberXL,21.08,302.96,Card,2024-12-12,06:23:16
+Indiranagar,Hebbal,UberBlack,28.49,391.88,Card,2024-04-20,02:51:22
+Koramangala,Electronic City,UberGo,37.28,497.36,UPI,2024-08-08,19:49:06
+Indiranagar,Koramangala,UberBlack,27.92,385.04,UPI,2024-08-21,07:03:48
+Indiranagar,Hebbal,UberBlack,29.65,405.8,Wallet,2024-06-24,01:27:07
+Indiranagar,Whitefield,UberBlack,30.85,420.2,Wallet,2024-04-07,21:15:54
+Koramangala,Jayanagar,UberXL,4.09,99.08,UPI,2024-07-08,09:06:48
+Indiranagar,Electronic City,UberBlack,22.18,316.16,Wallet,2024-04-04,19:11:46
+Indiranagar,Whitefield,UberBlack,46.56,608.72,Wallet,2024-01-30,23:24:54
+MG Road,Hebbal,UberXL,23.89,336.68,UPI,2024-11-22,21:02:08
+Whitefield,Koramangala,UberBlack,10.64,177.68,Card,2024-04-10,15:21:11
+Jayanagar,Marathahalli,UberGo,11.6,189.2,Card,2024-12-26,15:27:07
+Hebbal,Indiranagar,UberSUV,25.44,355.28,Cash,2024-03-10,20:53:07
+Whitefield,Indiranagar,UberGo,19.88,288.56,Card,2024-01-13,12:09:47
+MG Road,Hebbal,UberBlack,16.91,252.92,UPI,2024-05-21,11:26:44
+Electronic City,MG Road,UberSUV,18.35,270.2,Card,2024-09-25,03:44:10
+Marathahalli,Jayanagar,UberGo,7.98,145.76,UPI,2024-09-10,18:06:04
+Indiranagar,Electronic City,UberXL,44.56,584.72,Card,2024-08-21,03:37:47
+Indiranagar,Jayanagar,UberSUV,27.65,381.8,Cash,2024-04-28,22:33:18
+Hebbal,Indiranagar,UberBlack,37.02,494.24,Wallet,2024-02-11,04:24:10
+Indiranagar,Jayanagar,UberBlack,37.2,496.4,UPI,2024-02-18,12:26:12
+Koramangala,Marathahalli,UberSUV,36.62,489.44,Wallet,2024-03-27,10:06:00
+Jayanagar,Whitefield,UberXL,19.91,288.92,Cash,2024-09-08,01:36:02
+Jayanagar,MG Road,UberGo,18.99,277.88,UPI,2024-02-23,13:35:00
+Koramangala,Hebbal,UberSUV,27.15,375.8,UPI,2024-11-11,02:21:21
+Indiranagar,Jayanagar,UberBlack,14.33,221.96,Card,2024-02-12,01:05:54
+Hebbal,Koramangala,UberGo,27.01,374.12,Wallet,2024-09-06,01:48:02
+Electronic City,Hebbal,UberX,43.06,566.72,Cash,2024-10-18,22:48:32
+Marathahalli,Koramangala,UberX,36.93,493.16,Cash,2024-08-02,05:48:23
+MG Road,Indiranagar,UberGo,11.14,183.68,Wallet,2024-02-05,07:03:04
+Koramangala,Whitefield,UberXL,21.47,307.64,Cash,2024-02-25,15:28:15
+Electronic City,Indiranagar,UberBlack,43.85,576.2,Wallet,2024-07-09,22:44:46
+Electronic City,MG Road,UberXL,6.54,128.48,Card,2024-09-18,15:50:33
+Marathahalli,Koramangala,UberX,34.99,469.88,Cash,2024-08-09,12:34:22
+Whitefield,Koramangala,UberX,23.72,334.64,Cash,2024-09-10,12:10:14
+Whitefield,Hebbal,UberGo,16.51,248.12,Wallet,2024-02-15,00:39:23
+Indiranagar,Whitefield,UberGo,36.11,483.32,Wallet,2024-08-05,13:55:43
+Indiranagar,Marathahalli,UberXL,14,218,Cash,2024-05-24,17:16:48
+Jayanagar,Koramangala,UberXL,25.41,354.92,Cash,2024-01-03,06:11:29
+Marathahalli,Koramangala,UberXL,14.43,223.16,Card,2024-10-28,10:50:09
+Indiranagar,Hebbal,UberBlack,44.8,587.6,UPI,2024-05-15,06:29:51
+Electronic City,Whitefield,UberX,25.79,359.48,Card,2024-04-03,16:58:06
+Jayanagar,Koramangala,UberXL,18.84,276.08,Wallet,2024-05-04,08:25:14
+Hebbal,Jayanagar,UberGo,2.73,82.76,Wallet,2024-08-12,21:23:00
+Whitefield,MG Road,UberGo,40.4,534.8,UPI,2024-05-17,06:48:31
+Electronic City,MG Road,UberSUV,44.62,585.44,Cash,2024-12-10,21:22:36
+Jayanagar,Whitefield,UberSUV,4.96,109.52,Cash,2024-06-15,13:06:40
+Hebbal,Electronic City,UberGo,3.3,89.6,UPI,2024-09-08,20:52:45
+MG Road,Hebbal,UberX,35.36,474.32,UPI,2024-06-30,23:12:14
+MG Road,Indiranagar,UberBlack,12.45,199.4,Cash,2024-02-17,09:26:24
+Jayanagar,Whitefield,UberX,22.43,319.16,UPI,2024-05-22,09:51:28
+Koramangala,Marathahalli,UberSUV,44.28,581.36,Cash,2024-11-07,07:15:50
+MG Road,Whitefield,UberSUV,35.01,470.12,Wallet,2024-07-23,07:27:31
+Jayanagar,Koramangala,UberX,24.84,348.08,Cash,2024-02-14,11:35:50
+Hebbal,Koramangala,UberXL,2.36,78.32,UPI,2024-09-18,15:02:28
+MG Road,Marathahalli,UberSUV,14.37,222.44,UPI,2024-05-05,19:31:14
+Koramangala,Electronic City,UberX,5.74,118.88,UPI,2024-05-28,04:15:56
+Hebbal,Whitefield,UberSUV,7.18,136.16,Cash,2024-03-25,10:19:24
+Electronic City,Hebbal,UberX,47.12,615.44,Wallet,2024-04-16,11:45:29
+Marathahalli,Indiranagar,UberGo,21.39,306.68,UPI,2024-12-17,11:26:12
+Marathahalli,Hebbal,UberXL,3.78,95.36,Cash,2024-01-20,04:23:30
+Jayanagar,Hebbal,UberBlack,24.27,341.24,Card,2024-05-02,18:15:22
+Hebbal,Electronic City,UberXL,49.18,640.16,UPI,2024-08-10,12:48:13
+Koramangala,Electronic City,UberX,11.62,189.44,Wallet,2024-07-16,07:27:52
+Whitefield,Marathahalli,UberSUV,15.46,235.52,Cash,2024-04-13,13:56:55
+Electronic City,Hebbal,UberSUV,44.53,584.36,Card,2024-10-19,21:05:15
+Jayanagar,Whitefield,UberBlack,20.81,299.72,Cash,2024-08-18,00:34:22
+Jayanagar,Electronic City,UberX,28.18,388.16,Wallet,2024-04-16,17:02:23
+Marathahalli,MG Road,UberSUV,7.86,144.32,Card,2024-12-09,14:12:35
+Marathahalli,Koramangala,UberGo,7.28,137.36,UPI,2024-12-03,03:01:10
+Jayanagar,Hebbal,UberX,35.56,476.72,Cash,2024-05-02,06:08:51
+Indiranagar,Electronic City,UberGo,26.98,373.76,Cash,2024-11-29,20:00:13
+Marathahalli,Whitefield,UberXL,44.24,580.88,Wallet,2024-10-28,09:56:18
+Whitefield,Indiranagar,UberX,6.86,132.32,Wallet,2024-01-06,23:39:20
+Electronic City,MG Road,UberGo,35.29,473.48,Cash,2024-02-27,07:16:37
+Marathahalli,MG Road,UberXL,22.77,323.24,Cash,2024-05-14,11:02:41
+Indiranagar,Hebbal,UberX,19.87,288.44,UPI,2024-07-17,16:56:35
+Hebbal,Electronic City,UberSUV,31.55,428.6,Cash,2024-12-26,03:12:33
+MG Road,Marathahalli,UberX,34.08,458.96,Card,2024-09-21,20:18:12
+Hebbal,Jayanagar,UberXL,2.61,81.32,Cash,2024-01-29,11:56:35
+Marathahalli,Indiranagar,UberSUV,35.61,477.32,Wallet,2024-03-21,00:25:45
+Electronic City,Koramangala,UberGo,31.78,431.36,Card,2024-09-25,10:16:22
+Indiranagar,Whitefield,UberXL,19.92,289.04,Card,2024-08-30,01:47:03
+Hebbal,MG Road,UberSUV,37.85,504.2,Cash,2024-12-07,17:53:58
+Hebbal,Whitefield,UberBlack,18.17,268.04,Wallet,2024-08-11,00:25:52
+Whitefield,Indiranagar,UberBlack,47.28,617.36,Cash,2024-04-05,19:50:35
+Electronic City,Hebbal,UberBlack,17.41,258.92,Cash,2024-04-08,05:30:09
+Whitefield,Electronic City,UberGo,9.26,161.12,Wallet,2024-03-22,09:24:58
+Whitefield,MG Road,UberSUV,43.4,570.8,Cash,2024-12-29,22:09:46
+Electronic City,Jayanagar,UberGo,9.42,163.04,Card,2024-09-13,03:16:53
+Electronic City,Marathahalli,UberX,2.25,77,Wallet,2024-03-22,18:22:50
+Marathahalli,Hebbal,UberX,13.34,210.08,UPI,2024-05-22,21:35:05
+Indiranagar,Electronic City,UberSUV,20.86,300.32,Wallet,2024-11-07,14:43:44
+Electronic City,Whitefield,UberGo,29.67,406.04,Wallet,2024-10-27,13:43:42
+Jayanagar,Marathahalli,UberSUV,35.77,479.24,Card,2024-01-10,12:03:43
+Whitefield,Marathahalli,UberBlack,13.65,213.8,Cash,2024-05-31,23:34:10
+Indiranagar,Hebbal,UberSUV,49.92,649.04,UPI,2024-02-05,13:03:36
+Marathahalli,Whitefield,UberGo,15.02,230.24,Cash,2024-03-16,22:13:27
+MG Road,Hebbal,UberXL,11.03,182.36,Card,2024-05-19,15:27:13
+Koramangala,Marathahalli,UberGo,13.44,211.28,Wallet,2024-12-15,21:53:51
+Hebbal,MG Road,UberBlack,15.68,238.16,UPI,2024-04-21,11:03:12
+MG Road,Indiranagar,UberBlack,38.16,507.92,Wallet,2024-08-06,12:49:04
+MG Road,Hebbal,UberBlack,24.49,343.88,Wallet,2024-01-01,19:29:23
+Jayanagar,Indiranagar,UberGo,10.63,177.56,Wallet,2024-05-28,10:44:34
+Jayanagar,Hebbal,UberX,13.98,217.76,Cash,2024-04-02,19:35:32
+Electronic City,Indiranagar,UberGo,49.76,647.12,Cash,2024-07-22,23:13:40
+MG Road,Indiranagar,UberGo,17.38,258.56,Card,2024-05-07,12:05:50
+Marathahalli,Indiranagar,UberGo,18.19,268.28,Cash,2024-03-05,04:28:23
+Whitefield,Marathahalli,UberGo,37.01,494.12,Wallet,2024-09-09,21:09:07
+MG Road,Electronic City,UberGo,21.12,303.44,Cash,2024-10-30,15:31:14
+Hebbal,Whitefield,UberSUV,25.05,350.6,Cash,2024-08-02,02:46:19
+Jayanagar,Indiranagar,UberXL,19.27,281.24,UPI,2024-01-31,01:09:38
+MG Road,Whitefield,UberSUV,35.67,478.04,Wallet,2024-08-19,09:36:21
+Whitefield,Electronic City,UberXL,16.41,246.92,Cash,2024-05-14,20:18:56
+MG Road,Hebbal,UberXL,5.01,110.12,UPI,2024-05-03,00:46:59
+MG Road,Indiranagar,UberX,16.29,245.48,Cash,2024-03-14,18:33:22
+MG Road,Hebbal,UberGo,7.23,136.76,Cash,2024-04-21,13:35:33
+Electronic City,Hebbal,UberSUV,32.81,443.72,UPI,2024-05-22,06:32:49
+Koramangala,Whitefield,UberSUV,31.64,429.68,UPI,2024-09-27,04:08:40
+Koramangala,Jayanagar,UberBlack,11.84,192.08,Cash,2024-01-13,17:25:48
+Hebbal,Electronic City,UberSUV,41.5,548,Wallet,2024-08-26,11:12:15
+Jayanagar,Marathahalli,UberSUV,29.96,409.52,UPI,2024-01-16,10:04:46
+Koramangala,Marathahalli,UberXL,45.51,596.12,Cash,2024-10-23,19:36:14
+Koramangala,Jayanagar,UberX,23.72,334.64,Card,2024-02-16,03:11:49
+Marathahalli,Whitefield,UberBlack,32.51,440.12,Wallet,2024-08-30,15:22:03
+Electronic City,MG Road,UberGo,42.45,559.4,Wallet,2024-10-04,00:37:05
+MG Road,Indiranagar,UberGo,29.38,402.56,Card,2024-11-17,21:21:59
+Koramangala,Indiranagar,UberBlack,6.58,128.96,Cash,2024-10-12,15:00:54
+MG Road,Jayanagar,UberGo,33.03,446.36,Card,2024-03-31,08:34:23
+Whitefield,Marathahalli,UberGo,44.41,582.92,Wallet,2024-03-11,17:55:49
+Whitefield,MG Road,UberXL,42.35,558.2,Wallet,2024-07-09,22:47:08
+Jayanagar,Koramangala,UberXL,23.29,329.48,Card,2024-08-30,17:37:48
+Jayanagar,Whitefield,UberXL,36.93,493.16,Wallet,2024-11-21,15:54:32
+Electronic City,Marathahalli,UberXL,4.24,100.88,UPI,2024-01-31,20:26:20
+Marathahalli,Jayanagar,UberBlack,42.59,561.08,Cash,2024-08-09,13:33:59
+MG Road,Marathahalli,UberBlack,6.5,128,Card,2024-04-14,15:35:44
+Hebbal,MG Road,UberX,44.37,582.44,Wallet,2024-05-24,18:31:58
+Jayanagar,Indiranagar,UberBlack,44.38,582.56,Cash,2024-04-01,21:01:11
+Koramangala,Jayanagar,UberX,23.53,332.36,UPI,2024-01-31,18:07:44
+Marathahalli,Hebbal,UberSUV,21.77,311.24,Card,2024-05-29,19:18:26
+Hebbal,Koramangala,UberX,28.55,392.6,UPI,2024-08-05,01:28:08
+Indiranagar,Koramangala,UberXL,9.31,161.72,Cash,2024-02-11,11:12:12
+Whitefield,Indiranagar,UberSUV,14.28,221.36,Wallet,2024-09-19,04:11:48
+MG Road,Jayanagar,UberSUV,11.82,191.84,Cash,2024-04-08,14:57:31
+Jayanagar,Indiranagar,UberXL,17.06,254.72,UPI,2024-10-04,12:02:05
+Jayanagar,Electronic City,UberBlack,12.72,202.64,Card,2024-11-29,16:27:47
+Koramangala,Jayanagar,UberBlack,10.12,171.44,Card,2024-10-17,06:33:08
+Marathahalli,Hebbal,UberSUV,20.33,293.96,UPI,2024-10-19,10:20:45
+Hebbal,Jayanagar,UberGo,38.91,516.92,UPI,2024-10-12,07:26:37
+Whitefield,Marathahalli,UberSUV,12.95,205.4,Card,2024-03-21,16:48:13
+MG Road,Hebbal,UberSUV,4.77,107.24,Wallet,2024-11-19,16:26:13
+Jayanagar,Koramangala,UberXL,36.87,492.44,Card,2024-11-14,07:46:08
+MG Road,Koramangala,UberXL,38.17,508.04,Cash,2024-09-30,03:59:31
+Jayanagar,MG Road,UberSUV,31.98,433.76,Cash,2024-12-17,15:07:21
+Indiranagar,Whitefield,UberXL,5.01,110.12,Cash,2024-03-30,05:02:22
+Marathahalli,MG Road,UberGo,33.5,452,UPI,2024-10-05,16:19:36
+Whitefield,Electronic City,UberX,46.38,606.56,Cash,2024-09-16,16:34:41
+Whitefield,Hebbal,UberSUV,21.52,308.24,Card,2024-05-30,04:07:49
+Marathahalli,Jayanagar,UberX,10.84,180.08,UPI,2024-08-27,00:37:52
+MG Road,Whitefield,UberXL,19.58,284.96,UPI,2024-10-10,16:39:27
+MG Road,Jayanagar,UberSUV,48.26,629.12,UPI,2024-03-28,09:53:10
+Whitefield,Koramangala,UberBlack,29.29,401.48,Cash,2024-02-17,07:04:46
+Electronic City,Whitefield,UberBlack,22.53,320.36,Card,2024-02-29,08:53:58
+Indiranagar,MG Road,UberSUV,42.02,554.24,Cash,2024-01-28,00:36:23
+Indiranagar,Hebbal,UberGo,49.36,642.32,Cash,2024-09-17,09:00:35
+Koramangala,Hebbal,UberBlack,19.2,280.4,Card,2024-03-31,05:42:37
+Electronic City,Jayanagar,UberGo,28.92,397.04,UPI,2024-03-03,22:04:23
+Marathahalli,Indiranagar,UberX,41.63,549.56,UPI,2024-06-25,11:07:39
+Koramangala,Electronic City,UberBlack,27.8,383.6,Card,2024-04-18,07:22:36
+Indiranagar,Jayanagar,UberSUV,10.04,170.48,UPI,2024-11-27,09:00:29
+Whitefield,Jayanagar,UberGo,49.69,646.28,Card,2024-07-23,08:40:38
+Electronic City,Hebbal,UberSUV,41.61,549.32,Wallet,2024-01-21,00:07:13
+Hebbal,Koramangala,UberGo,44.68,586.16,Wallet,2024-05-17,16:36:51
+Koramangala,Marathahalli,UberGo,27.8,383.6,Wallet,2024-05-05,10:06:08
+Marathahalli,Koramangala,UberBlack,11.08,182.96,UPI,2024-12-25,05:05:56
+Jayanagar,Indiranagar,UberXL,9.98,169.76,Card,2024-04-13,13:08:45
+Indiranagar,MG Road,UberXL,49.94,649.28,Card,2024-04-08,13:04:34
+Whitefield,Indiranagar,UberXL,21.91,312.92,UPI,2024-12-14,16:57:02
+Hebbal,Marathahalli,UberX,23.97,337.64,Wallet,2024-09-21,06:10:15
+Hebbal,Jayanagar,UberSUV,22.32,317.84,Wallet,2024-06-21,23:31:24
+Marathahalli,Jayanagar,UberXL,7.31,137.72,UPI,2024-06-25,13:24:55
+Jayanagar,Marathahalli,UberXL,5.99,121.88,Cash,2024-01-15,07:23:32
+Koramangala,MG Road,UberGo,17.4,258.8,Wallet,2024-03-24,10:11:13
+Jayanagar,Koramangala,UberSUV,27.36,378.32,UPI,2024-08-14,11:08:37
+Indiranagar,Marathahalli,UberBlack,11.69,190.28,Card,2024-08-16,00:08:38
+Electronic City,MG Road,UberSUV,4.55,104.6,Cash,2024-07-03,21:40:46
+Jayanagar,Hebbal,UberXL,16.2,244.4,Card,2024-02-04,10:10:33
+Indiranagar,Electronic City,UberSUV,33.86,456.32,Card,2024-03-05,13:56:20
+Electronic City,MG Road,UberXL,27,374,UPI,2024-02-21,04:45:20
+Indiranagar,Hebbal,UberBlack,9.36,162.32,Card,2024-03-02,07:04:16
+Indiranagar,Whitefield,UberXL,22.89,324.68,UPI,2024-08-19,00:23:49
+Electronic City,Whitefield,UberX,39.05,518.6,Cash,2024-02-02,01:11:35
+Whitefield,Marathahalli,UberX,17.02,254.24,Wallet,2024-09-25,21:26:52
+Electronic City,Whitefield,UberSUV,14.73,226.76,UPI,2024-01-12,19:14:03
+Marathahalli,Hebbal,UberSUV,35.91,480.92,UPI,2024-06-19,16:08:28
+Marathahalli,Jayanagar,UberSUV,41.77,551.24,Card,2024-04-10,14:07:41
+MG Road,Hebbal,UberSUV,7.55,140.6,UPI,2024-12-05,13:48:36
+Jayanagar,Electronic City,UberGo,40.14,531.68,Wallet,2024-05-12,22:53:47
+Whitefield,Marathahalli,UberX,40.15,531.8,Cash,2024-03-14,04:24:33
+Whitefield,Electronic City,UberBlack,27,374,Cash,2024-07-19,17:57:31
+Marathahalli,MG Road,UberSUV,10.72,178.64,Cash,2024-01-05,11:45:36
+MG Road,Hebbal,UberGo,10.7,178.4,Wallet,2024-03-14,06:32:15
+Koramangala,Electronic City,UberX,41.47,547.64,Card,2024-05-24,06:22:44
+Marathahalli,Whitefield,UberXL,25.55,356.6,Wallet,2024-06-27,14:10:36
+MG Road,Whitefield,UberXL,19.01,278.12,Card,2024-09-29,02:14:35
+Indiranagar,Marathahalli,UberX,31.73,430.76,Cash,2024-01-05,01:54:02
+Whitefield,Jayanagar,UberBlack,17.32,257.84,UPI,2024-08-18,16:57:03
+Jayanagar,Koramangala,UberSUV,36.11,483.32,UPI,2024-01-08,14:25:51
+Electronic City,Whitefield,UberGo,26.01,362.12,Card,2024-11-18,03:52:35
+Electronic City,Jayanagar,UberSUV,13.8,215.6,Wallet,2024-02-11,22:33:54
+Indiranagar,Whitefield,UberBlack,24.66,345.92,UPI,2024-01-21,08:52:45
+Indiranagar,Jayanagar,UberSUV,6.79,131.48,Card,2024-02-29,23:07:08
+Electronic City,MG Road,UberX,38.7,514.4,Card,2024-04-08,14:53:13
+Koramangala,Whitefield,UberX,44.66,585.92,Card,2024-09-05,20:03:49
+Whitefield,Electronic City,UberSUV,38.21,508.52,Card,2024-09-21,19:47:20
+Jayanagar,Whitefield,UberSUV,2.16,75.92,Cash,2024-02-08,06:11:34
+Jayanagar,Whitefield,UberSUV,29.96,409.52,UPI,2024-03-09,19:03:08
+Hebbal,MG Road,UberX,11.69,190.28,Wallet,2024-05-17,15:56:33
+Electronic City,Hebbal,UberXL,39.42,523.04,Wallet,2024-12-10,01:16:20
+Whitefield,Jayanagar,UberSUV,48.94,637.28,Wallet,2024-04-19,18:48:03
+Hebbal,MG Road,UberGo,42.13,555.56,UPI,2024-04-01,17:52:23
+Koramangala,Marathahalli,UberXL,45.61,597.32,Wallet,2024-11-07,00:50:10
+Marathahalli,MG Road,UberXL,29.24,400.88,Wallet,2024-12-06,07:10:10
+Marathahalli,Whitefield,UberSUV,31.28,425.36,Card,2024-10-29,09:22:57
+MG Road,Marathahalli,UberGo,6.87,132.44,Cash,2024-03-03,05:41:04
+Hebbal,Indiranagar,UberSUV,16.57,248.84,UPI,2024-05-29,10:57:41
+Electronic City,Koramangala,UberXL,30.02,410.24,Card,2024-04-27,16:46:06
+Hebbal,Koramangala,UberX,8.37,150.44,Card,2024-12-25,12:51:38
+Marathahalli,Whitefield,UberX,38.7,514.4,UPI,2024-12-24,14:33:02
+Marathahalli,Indiranagar,UberGo,18.35,270.2,Card,2024-06-08,11:00:47
+Koramangala,MG Road,UberBlack,44.98,589.76,Cash,2024-02-03,06:29:15
+Electronic City,Indiranagar,UberX,4.43,103.16,Wallet,2024-01-06,05:47:08
+Indiranagar,MG Road,UberGo,25.64,357.68,UPI,2024-12-03,14:00:58
+Indiranagar,Hebbal,UberXL,20.12,291.44,Card,2024-08-27,00:49:29
+Jayanagar,Marathahalli,UberSUV,49.99,649.88,Card,2024-06-23,20:34:51
+MG Road,Marathahalli,UberXL,7.24,136.88,Wallet,2024-10-28,21:36:56
+Marathahalli,MG Road,UberGo,28.54,392.48,Card,2024-05-05,22:41:41
+Marathahalli,Koramangala,UberX,37.79,503.48,UPI,2024-10-28,15:54:49
+MG Road,Koramangala,UberBlack,25.97,361.64,Wallet,2024-03-09,00:42:21
+Indiranagar,Koramangala,UberX,19.28,281.36,UPI,2024-08-30,15:19:36
+Hebbal,Whitefield,UberXL,3.97,97.64,Cash,2024-10-14,05:59:06
+Koramangala,Marathahalli,UberBlack,24.46,343.52,Cash,2024-06-19,12:45:40
+Electronic City,MG Road,UberXL,7.22,136.64,UPI,2024-10-24,23:29:39
+Marathahalli,Electronic City,UberXL,5.11,111.32,UPI,2024-07-07,23:56:18
+Jayanagar,Whitefield,UberX,34.46,463.52,UPI,2024-04-18,02:17:34
+MG Road,Hebbal,UberX,13.91,216.92,Card,2024-10-03,00:03:50
+Electronic City,Hebbal,UberGo,23.5,332,Wallet,2024-04-04,05:18:48
+MG Road,Hebbal,UberSUV,31.3,425.6,Cash,2024-03-02,21:36:59
+Hebbal,Electronic City,UberXL,20.83,299.96,Cash,2024-04-18,13:10:34
+MG Road,Jayanagar,UberGo,7.92,145.04,UPI,2024-06-15,21:37:19
+Jayanagar,Hebbal,UberXL,43.77,575.24,UPI,2024-09-22,10:42:49
+Indiranagar,MG Road,UberX,23.33,329.96,Wallet,2024-06-05,15:21:14
+Marathahalli,Jayanagar,UberBlack,13.96,217.52,UPI,2024-08-30,23:35:14
+Koramangala,Jayanagar,UberGo,12.32,197.84,UPI,2024-06-22,18:00:50
+Electronic City,Jayanagar,UberSUV,36.23,484.76,Card,2024-05-27,23:05:55
+Indiranagar,Whitefield,UberGo,27.31,377.72,Wallet,2024-07-27,09:40:08
+Hebbal,Indiranagar,UberXL,8.97,157.64,UPI,2024-04-16,08:08:01
+Electronic City,Marathahalli,UberGo,4.35,102.2,Cash,2024-05-15,09:01:48
+Indiranagar,MG Road,UberBlack,7.52,140.24,Card,2024-04-06,23:01:31
+Indiranagar,Whitefield,UberBlack,50,650,Cash,2024-01-31,22:07:06
+Marathahalli,Koramangala,UberSUV,25.88,360.56,Cash,2024-08-06,11:14:05
+Koramangala,Indiranagar,UberXL,45.03,590.36,Cash,2024-12-28,04:00:48
+Whitefield,Electronic City,UberGo,11.71,190.52,UPI,2024-10-04,13:11:44
+Whitefield,Indiranagar,UberGo,5.57,116.84,UPI,2024-04-30,15:15:08
+Indiranagar,Marathahalli,UberXL,32.73,442.76,UPI,2024-11-16,02:13:53
+MG Road,Koramangala,UberGo,3.88,96.56,Cash,2024-08-13,01:02:45
+Hebbal,Jayanagar,UberSUV,45.77,599.24,Cash,2024-02-15,19:29:01
+Koramangala,MG Road,UberX,34.16,459.92,UPI,2024-12-29,03:59:56
+Indiranagar,Whitefield,UberGo,41.56,548.72,Cash,2024-01-26,02:57:24
+Indiranagar,Hebbal,UberX,28.93,397.16,Card,2024-05-09,18:35:20
+Electronic City,Hebbal,UberGo,43.11,567.32,Card,2024-12-14,02:16:47
+Jayanagar,Indiranagar,UberXL,16.51,248.12,Cash,2024-10-07,21:44:24
+Marathahalli,Electronic City,UberBlack,44.95,589.4,Wallet,2024-08-09,07:42:23
+Hebbal,Koramangala,UberX,6.82,131.84,Cash,2024-11-21,18:21:02
+Marathahalli,Jayanagar,UberBlack,21.23,304.76,UPI,2024-04-15,17:11:10
+Hebbal,Electronic City,UberX,27.34,378.08,Card,2024-03-25,03:16:57
+Indiranagar,Jayanagar,UberGo,21.07,302.84,Wallet,2024-01-06,01:27:40
+Jayanagar,Whitefield,UberXL,9.78,167.36,Wallet,2024-11-27,17:22:46
+Jayanagar,Electronic City,UberBlack,49.73,646.76,UPI,2024-03-13,15:42:59
+Indiranagar,Whitefield,UberBlack,38.59,513.08,Card,2024-05-06,06:03:42
+Marathahalli,Hebbal,UberX,43.36,570.32,UPI,2024-07-11,17:31:29
