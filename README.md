@@ -108,5 +108,6 @@ In this project, I’ve gained practical knowledge in several key areas:
 ![Uber_Visualization_page-0004](https://github.com/user-attachments/assets/5ca4749a-c76d-4fe0-b7c2-73e8eba8e874)
 
 
+---
 
 This **Uber Sales Analysis** project helped me better understand the dynamics of Uber’s sales data and how to use data visualization tools to uncover actionable insights 💡.
